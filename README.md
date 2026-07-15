@@ -21,3 +21,10 @@ A teleprompter for **Even Realities G2** smart glasses. Read your scripts, notes
 ## Disclaimer
 Independent app. Not affiliated with, authorized by, or endorsed by Even Realities.
 "Even", "Even Realities", "G2", and "R1" are trademarks of their respective owners.
+ ## Screenshots
+
+<p align="center">
+  <img src="Whisprompt-1.png" width="240">
+  <img src="Whisprompt-3.png" width="240">
+  <img src="Whisprompt-2.png" width="240">
+</p>
